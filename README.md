@@ -10,31 +10,19 @@ Version: 8 April 2024
 
 The organization of this repository is as follows:
 ```
-├── chronicling_corpus/                <- trained top2vec model
+├── corpus/                <- trained top2vec model
 │   ├── chronicles/         <- reusable
 │   │   ├── entropies/          <- calculating indicator variables (incl. novelty)
 │   │   ├── misc/               <- handling dates, etc.
 │   │   ├── parser/             <- xml parsing, document segmentation
 │   │   └── representation/     <- finding prototypes
 │   └── ...
-├── chronicling_sources/          <- jupyter notebooks with exploratory analyses
+├── sources/          <- jupyter notebooks with exploratory analyses
 │   └── ...
-├── chronicling_topics/             <- examples for the paper
+├── topics/             <- examples for the paper
 │   └── ...
 │
-├── src/                <- analysis scripts
-│   ├── chronicles/         <- reusable
-│   │   ├── entropies/          <- calculating indicator variables (incl. novelty)
-│   │   ├── misc/               <- handling dates, etc.
-│   │   ├── parser/             <- xml parsing, document segmentation
-│   │   └── representation/     <- finding prototypes
-│   │
-|   └── application/         <- ad hoc scripts
-│       ├── config/             <- yaml files specifying parameters for experiments
-│       ├── topics/             <- training the top2vec model
-│       ├── visualization/      <- some more complicated publication plots (the less complicated are in notebooks/)
-│       ├── convert_from_xml.sh <- shell script for running XML parsing
-│       └── novelty_signal.py   <- pipeline for fitting the novelty signal
+├── misc/
 │
 └── requirements.txt      <- install this
 ```
