@@ -10,7 +10,10 @@ Version: 8 April 2024
 
 The organization of this repository is as follows:
 ```
-├── corpus/                <- trained top2vec model
+├── corpus/
+│   ├── corpus_230811/                    <- corpus for chapter 3 and 5
+│   │   ├── corpus_230811_annotated/      <- Topic Corpus
+│   │   ├── corpus_230811_full/           <- Full Corpus                
 │   ├── chronicles/         <- reusable
 │   │   ├── entropies/          <- calculating indicator variables (incl. novelty)
 │   │   ├── misc/               <- handling dates, etc.
