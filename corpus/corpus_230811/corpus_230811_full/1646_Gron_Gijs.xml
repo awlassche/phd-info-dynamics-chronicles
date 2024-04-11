@@ -1,0 +1,755 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1646_Gron_Gijs</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: sebastian</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='0001_1646_Gron_Gijs_001.png' n='1'/>
+			<p>
+				<lg>
+					<l>﻿Kroniek van Tamme Geijsbers, Groningen <datum datum='1583-xx-xx'>1583</datum>-<datum datum='1647-xx-xx'>1647</datum></l>
+					<l>Universiteitsbibliotheek Leiden Hs. LTK 2293 </l>
+					<l>Transcriptie door Theo Dekker, Universiteit Leiden, september 2019</l>
+					<l></l>
+					<l></l>
+					<l>Anno</l>
+					<l><datum datum='1583-03-14'>1583	14. Martij</datum> bin ick Tamme Gijsbers geboren.</l>
+					<l><datum datum='1585-10-25'>1585	25. Octobr</datum>. is mijn huijsfrouwe Feije Willema geboren.</l>
+					<l></l>
+					<l></l>
+					<l>Anno</l>
+					<l><datum datum='1594-07-xx'>1594	Julij</datum> is Gronningen van de Staten ingenomen, nadat het 9 weecken belegert geweest hadde.</l>
+					<l></l>
+					<l></l>
+					<l><datum datum='1596-xx-xx'>1596</datum>	Omtrent vastelavont is de bruiloft geweest van mijn broeder Arent Gijsbers ende Lijsien Blawe.</l>
+					<l><datum datum='1596-xx-xx'>1598</datum>	In t’ voorjaer bin ick van Emden na Dansich gevaren.</l>
+					<l>-	In t’ sommer van Dantsich na Coppenhagen in Denemarcken gevaren.</l>
+					<l><datum datum='1598-12-05'>98</datum>	5 decembr. is mijn broeders dochter Aeltjen tot Emden geboren.</l>
+				</lg>
+			</p>
+			<pb xml:id='0002_1646_Gron_Gijs_002.png' n='2'/>
+			<p>
+				<lg>
+					<l>	Anno <datum datum='1599-xx-xx'>1599</datum></l>
+					<l><datum datum='1599-03-05'>5	Martij </datum>bin ick in Polen gaen woonen om de sprake te leeren.</l>
+					<l><datum datum='1599-xx-xx'>Om Pinxter</datum> is de bruiloft gewest van mijn suster Imme ende sal. swager Berent Hindricks.</l>
+					<l><datum datum='1599-08-05'>5	Augusti</datum> bin ick met swager Andries Jacobs na Romen gereijst, onse pas nemende door Polen, Silesien, Weenen in Oostenrijck, Venetien, Padua, Ferara, Bolonien, Florentia, Siena ende andere treflicke steden.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1600-xx-xx'>1600</datum></l>
+					<l>	<datum datum='1600-01-xx'>Januarij</datum> sijn wij weder van Romen to Dansich gecomen.</l>
+					<l>	<datum datum='1600-04-xx'>April</datum>, hefftmen tot Gronningen de borgerije t’geweer afgenomen en een casteel aldaer begint te bouwen.</l>
+					<l><datum datum='1600-05-04'>4	Maij</datum> is de bruijloft gewest van mijn broeder Wigbolt ende Anneke Wilcken.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1600-xx-xx'>Anno 1600</datum></l>
+					<l><datum datum='1600-06-05'>5	Junij</datum> bin ick van Dansig weder tot Groninnigen gecomen.</l>
+					<l><datum datum='1600-09-15'>15	Septembr</datum>. van Emden na Rochel in Vranckrijk gevaren.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1601-xx-xx'>1601</datum></l>
+					<l><datum datum='1601-05-02'>2	Maij</datum> na Reuel in Lijflandt gevaren met een partije wijnen ende deselve aldaer vercofft.</l>
+					<l><datum datum='1601-07-27'>27	Julij</datum> weder tot Emden gecomen.</l>
+				</lg>
+			</p>
+			<pb xml:id='0003_1646_Gron_Gijs_003.png' n='3'/>
+			<p>
+				<lg>
+					<l><datum datum='1601-09-02'>2	Septembr</datum>: van Emden weder na Vranckrijck gereijst eerst op Rouan, voorts na Parijs, Orleans, Blois, Tours, Angers ende Nantes</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1602-xx-xx'>1602</datum></l>
+					<l><datum datum='1602-03-02'>2	Martij</datum> uit Vranckrijck weder t’ huijs gecomen.</l>
+					<l><datum datum='1602-05-01'>1	Mai</datum>j van Emden gevaren na Dansich, alwaer doemaels een schreckelicke peste was als dat 1400 menshen in een weecke daer sijn gestorven.</l>
+					<l><datum datum='1602-09-20'>20	Septemb.</datum> bin ick weder tot Gronningen gecomen.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1603-xx-xx'>1603</datum></l>
+					<l><datum datum='1603-09-11'>11	Septembr.</datum> is mijn Sal. L. vader Gijsbert Arents tot Emden in den Heeren gerustet.</l>
+					<l><datum datum='1603-09-12'>12	Dito</datum> is oock in de pest gestorven mijn Suster Imme op der Muhe bij Lier Oort in Oostfrieslant. Sij was geboren anno <datum datum='1578-xx-xx'>1578</datum>.</l>
+					<l><datum datum='1603-10-03'>3	Octobr.</datum> storff oock haer man Sal. Swager Berent Hindricks.</l>
+					<l><datum datum='1603-11-05'>5	Novembr.</datum> is Arent Broeders dochter Imke geboren.</l>
+					<l></l>
+					<l></l>
+					<l>	</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1605-xx-xx'>1605</datum></l>
+				</lg>
+			</p>
+			<pb xml:id='0004_1646_Gron_Gijs_004.png' n='4'/>
+			<p>
+				<lg>
+					<l><datum datum='1605-05-03'>3	Maij</datum> bin ick van Gronningen gereijst na Dantsich ende aldaer 6 jaren lang gebleven.</l>
+					<l><datum datum='1605-10-11'>11	Octobr.</datum> is mijn L. moeder Ide Gijsbers op de Biere in Oostfrieslant gerustet ende tot Emden gebracht ende in een graff bij mijn Sal. vader begraven.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1606-xx-xx'>1606</datum></l>
+					<l>	<datum datum='1606-04-xx'>April</datum> is tot Gronningen overleden Anneke Wilcken d’ huijsfrouwe van mijn broeder Wigbolt Gijsbers.</l>
+					<l><datum datum='1606-09-12'>12	Septembr.</datum> is overleden borgmr. Frederick Moijsteen.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1607-xx-xx'>1607</datum></l>
+					<l><datum datum='1607-09-26'>26	Septembr</datum>. is Arent broeders Sone Berent geboren op de Biere.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1609-xx-xx'>1609</datum></l>
+					<l><datum datum='1609-04-13'>13	April</datum> is de Treves gepubliceret.</l>
+					<l><datum datum='1609-12-14'>14	Decemb</datum>: is Arents dochter Idecke bij Leer geboren.</l>
+					<l></l>
+					<l>	<datum datum='1610-xx-xx'>1610</datum></l>
+					<l><datum datum='1610-04-15'>15	April</datum> is tot Dansich de bruiloft gewest van nicht Petertien ende N. Jochum Blawe</l>
+				</lg>
+			</p>
+			<pb xml:id='0005_1646_Gron_Gijs_005.png' n='5'/>
+			<p>
+				<lg>
+					<l></l>
+					<l>	Anno <datum datum='1611-xx-xx'>1611</datum></l>
+					<l><datum datum='1611-07-07'>7	Julij</datum> bin ick van Dansich gevaren.</l>
+					<l><datum datum='1611-07-26'>26	Julij</datum> tot Emden gecomen</l>
+					<l><datum datum='1611-09-03'>3	Septembr.</datum> tot Amst. gecomen.</l>
+					<l><datum datum='1611-09-14'>14	Dito</datum> na Antwerpen, Mechelen ende Bruissel gereijst.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1612-xx-xx'>1612</datum></l>
+					<l><datum datum='1612-10-22'>22	Octobr.</datum> is mijn broeder Wigbolt overleden. Was geboren anno <datum datum='1573-06-22'>1573 - 22. Junij.</datum></l>
+					<l></l>
+					<l>	<datum datum='1613-xx-xx'>1613</datum></l>
+					<l>	Int voorjaer is Moeij Ennecke overleden.</l>
+					<l>	<datum datum='1613-09-xx'>Septembr.</datum> bin ick van Groningen na Amsterdam gereijst en aldaer 2 jaeren gebleven.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1614-xx-xx'>1614</datum></l>
+					<l>	<datum datum='1614-06-xx'>Juni</datum>j is tot Amst. overleden mijn suster Anne Gijsbers, geboren anno <datum datum='1571-01-05'>1571, den 5. Januarij</datum>. Getrout anno <datum datum='1588-07-24'>1588, den 24 Julij.</datum></l>
+					<l><datum datum='1614-08-23'>23	Augusti</datum> is de Academie binnen Gronningen angevangen.</l>
+				</lg>
+			</p>
+			<pb xml:id='0006_1646_Gron_Gijs_006.png' n='6'/>
+			<p>
+				<lg>
+					<l></l>
+					<l>	<datum datum='1615-xx-xx'>1615</datum></l>
+					<l><datum datum='1615-04-16'>16	April</datum> is Moeij Elleijen Moijsteen overleden.</l>
+					<l><datum datum='1615-06-01'>1	Junij</datum> bin ick van Amsterdam na Vranckrijck gereijst ende aldaer omtrent 3 verendel jaere gebleven, meesten tijt tot Parijs.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1616-xx-xx'>1616</datum></l>
+					<l><datum datum='1616-02-24'>24	Februarij</datum> van Caen tot Vranckrijck gevaren.</l>
+					<l>	S’ anderen daechs onse schip verloren, en in Engelant 20 mijlen van Doveren gestrandet.</l>
+					<l><datum datum='1616-02-28'>28	Februarij</datum> tot Duinkercken gecomen, en van daer gepasseert, Iperen, Rijssel, Cortrijck, Gent, Oostende, Brugge, Sluijs, Isendijck, Vlissingen, Middelburch ende</l>
+					<l>11	Martij tot Amst. gecomen.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1616-xx-xx'>1616</datum></l>
+					<l><datum datum='1616-05-03'>3	Maij</datum> van Amst. tot Gronningen gecomen.</l>
+					<l><datum datum='1616-08-11'>11	Augusti</datum> is de wincop gewest van mijn ende mijn huijsfrouwe.</l>
+					<l><datum datum='1616-11-10'>10	Novembr.</datum> is ons bruiloft gewest.</l>
+					<l>	<datum datum='1616-12-xx'>Decembr.</datum> an neve Andries Jacobs vereert een silveren beker van 21 ¾ loot voor dat ick tuschen wincop en warschup een tijt lanck bij hem in de cost geweest.</l>
+				</lg>
+			</p>
+			<pb xml:id='0007_1646_Gron_Gijs_007.png' n='7'/>
+			<p>
+				<lg>
+					<l>	Anno <datum datum='1617-xx-xx'>1617</datum></l>
+					<l><datum datum='1617-03-08'>8	Martij</datum> is tot Leer in Oostfrieslandt overleden mijn broeder Arents huisfrouw Lijsijen Blawe olt 38. Jaren.</l>
+					<l><datum datum='1617-08-02'>2	Augusti</datum> bin ick mit mijnen huijsfrouw na Oostfrieslant gereijst ende den <datum datum='1617-08-27'>27. dito</datum> weder tot Gromningen gecomen.</l>
+					<l></l>
+					<l></l>
+					<l>	1617</l>
+					<l><datum datum='1617-08-30'>30	Augusti</datum> hebben wij op de bruiloft van Berent Alberts ende Greetien Leusincks geweest.</l>
+					<l><datum datum='1617-09-13'>13	Septembr.</datum> mit moeder ende S. Wemels na Farmsum gereijst en voorts mit N. Hillebrandt Baukens na Fimel gereden</l>
+					<l><datum datum='1617-11-02'>2	Novemb</datum>. op neve Jan melchiors ende Greetjen Knippincks bruijloft gewest.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1618-xx-xx'>1618</datum></l>
+					<l><datum datum='1618-04-19'>19	April</datum> gewest op de bruiloft van Dr Emmen ende N. Susana Verrucius.</l>
+					<l><datum datum='1618-05-03'>3	Maij</datum> mit vader en moeder ende mijn huijsfrou na Coeverden gereijset.</l>
+					<l><datum datum='1618-05-10'>10	Maij</datum> op de bruiloft van Sijmen Willems ende Swaentjen Lensincks gewest.</l>
+					<l><datum datum='1618-05-21'>21	Dito</datum> op de begrafenisse van Sal. Ate Tammens tot Ewum gewest.</l>
+					<l></l>
+					<l></l>
+					<l>	1618</l>
+					<l><datum datum='1618-10-23'>23	Octobr</datum>. hebben wij de eerste nacht in onse huijs geslapen ende ons huis holdinge angevangen.</l>
+				</lg>
+			</p>
+			<pb xml:id='0008_1646_Gron_Gijs_008.png' n='8'/>
+			<p>
+				<lg>
+					<l><datum datum='1618-11-02'>2	Novembr</datum>. op de bruijlofft van Schonenberch ende N. Jenke Verrucius gewest.</l>
+					<l><datum datum='1618-11-24'>24	Novembr.</datum> is neve Ate bij ons gecomen.</l>
+					<l>	Is de comete an de hemel verschenen.</l>
+					<l><datum datum='1618-08-29'>29	Augusti</datum> is Barnevelt gevangen genomen.</l>
+					<l></l>
+					<l></l>
+					<l><datum datum='1618-03-20'>20	Martij</datum> is Keijser Mathias gestorven.</l>
+					<l>	<datum datum='1618-05-xx'>Maij</datum> is de synode tot Dordrecht geeindigt.</l>
+					<l>	Was begonnen den</l>
+					<l><datum datum='1618-05-12'>12	Maij</datum> is Barnevelt onthalst.</l>
+					<l><datum datum='1618-08-16'>16	Augusti</datum> is Hummo Wilcken begraven.</l>
+					<l><datum datum='1618-09-09'>9	Septemb</datum>. is Ferdinandus tot keijser gecoren.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1619-xx-xx'>1619</datum></l>
+					<l><datum datum='1619-10-03'>3	Octob</datum>. hefft mijn broeder Arent getrout sijn 2e huisfrou Baetien Wigbolts op Bonder Nijlant, daar hij dit voorjaer was comen wonen.</l>
+					<l><datum datum='1619-10-03'>15	Decemb</datum>. gewest op de begraffenisse van nicht Lijs te Langeweer.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1620-xx-xx'>1620</datum></l>
+				</lg>
+			</p>
+			<pb xml:id='0009_1646_Gron_Gijs_009.png' n='9'/>
+			<p>
+				<lg>
+					<l><datum datum='1620-05-30'>30	Maij</datum> is tot Lewarden gestorven Grave Willem van Nassou, gouverneur van Vrieslant ende Groningen ende Pr. Maurits is weder gecozen Gouverneur van Groningen.</l>
+					<l><datum datum='1620-08-03'>3	Augusti</datum> is Swager Andries Jacobs gerustet.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1620-xx-xx'>1620</datum></l>
+					<l><datum datum='1620-11-08'>8	Novemb.</datum> hefft de Keysers volck de slach bij Prage gewonnen.</l>
+					<l><datum datum='1620-11-08'>8	Novemb.</datum> is Arent Broeders dochter Lijsijen geboren</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1621-xx-xx'>1621</datum></l>
+					<l><datum datum='1621-01-01'>1	Januarij</datum> is de bruijlofft gewest van Swager Gerloff Willema (geboren anno 1587 den septemb) ende Reijnou Cornelijs geboren anno 1601 den 11. Septembr.</l>
+					<l></l>
+					<l></l>
+					<l>	1621</l>
+					<l><datum datum='1621-04-13'>13	April</datum> is de Treves uut gewest.</l>
+					<l>-	De borger vaendels tot Groningen sijn verandert van 8. tot 12.</l>
+					<l><datum datum='1621-04-24'>24	April</datum> hebbe ick d’eerste mael op de wacht getrocken.</l>
+					<l><datum datum='1621-06-12'>12	Junij</datum> op t’ Raedthuijs gebracht tot het Geschut voor 2½ man 5. Dall. 20 stu.</l>
+					<l><datum datum='1621-07-13'>13	Julij</datum> storff d’eertz hertog Albertus.</l>
+				</lg>
+			</p>
+			<pb xml:id='0010_1646_Gron_Gijs_010.png' n='10'/>
+			<p>
+				<lg>
+					<l></l>
+					<l>	<datum datum='1622-xx-xx'>1622</datum></l>
+					<l><datum datum='1622-05-09'>9	Maij</datum> is nicht Willemtien Engelberts gerustet.</l>
+					<l><datum datum='1622-10-03'>3	Octobr.</datum> is Bergen op Zoom ontsettet.</l>
+					<l><datum datum='1622-11-11'>11	Novemb.</datum> is Mansfelt in Oostfrieslant gecomen.</l>
+					<l><datum datum='1622-11-12'>12	dito</datum> betaelt voor de 500ste penninck 8 gulden.</l>
+					<l>?? betaelt schooorsteen gelt voor 8 schoorstenen 16. Dall. 8 stu.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1623-xx-xx'>1623</datum></l>
+					<l><datum datum='1623-02-21'>21	febr.</datum> is N. Jacob Andries hier gecomen.</l>
+					<l><datum datum='1623-03-10'>10	martij</datum> is nicht Imke mit d’heer van Buren hier gecomen, ende den <datum datum='1623-03-27'>27. martij</datum> na Hollant verreijset.</l>
+					<l><datum datum='1623-03-19'>19	martij</datum> sijn de Bewindthebbers van de West Ind. Compagnie hier in den eedt gecomen.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1623-xx-xx'>1623</datum> Bewindthebbers vande West Ind. Compe.</l>
+					<l>	Borgemr. Jochum Alting</l>
+					<l>	Juncker Johan Sickinghe</l>
+					<l>	Juncker Onno Tamminga</l>
+					<l>	Jr Rempt Rengers</l>
+				</lg>
+			</p>
+			<pb xml:id='0011_1646_Gron_Gijs_011.png' n='11'/>
+			<p>
+				<lg>
+					<l>	Jr Edsarst Jacob Clant</l>
+					<l>	Jr Diederich Scherff</l>
+					<l>	Borgemr. Bartolt Wicheringe</l>
+					<l>	Jr Christoffer van Ewsum</l>
+					<l>	Raadtsheer Hillebr. Gruis</l>
+					<l>	Raadtsheer Joost van Cleve</l>
+					<l>	Raadtsheer Albert Wifrinck</l>
+					<l>	Doctor Nicolaus Mulerius</l>
+					<l>	Willem van Viersen</l>
+					<l>	Berent Jansz in de 3. Wollen</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1623-xx-xx'>1623</datum></l>
+					<l> bin ick angenomen tot boeckholder van de W. Ind. Comp:</l>
+					<l><datum datum='1623-xx-05'>5	Dito</datum> bin ick mit Borgemr. Altinck na Amst. gereijst om aldaer geexamineert te worden.</l>
+					<l><datum datum='1623-xx-25'>25	Dito</datum> bin ick weder tot Gronningen gecomen.</l>
+					<l><datum datum='1623-11-01'>1	Novemb:</datum> is onse maecht mechtelt bij ons comen woonen.</l>
+					<l><datum datum='1623-11-15'>15	Dito</datum> is neve Jacob Andries tot Watervoort in Irlant gestorven.</l>
+				</lg>
+			</p>
+			<pb xml:id='0012_1646_Gron_Gijs_012.png' n='12'/>
+			<p>
+				<lg>
+					<l>	<datum datum='1623-xx-xx'>1623</datum></l>
+					<l>`	<datum datum='1623-12-xx'>Decembris</datum> is onse hopman Peter Cransijns afgesettet ende Tiasso Tiassens weder in sijn plaets gestelt.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1624-xx-xx'>Anno 1624</datum></l>
+					<l><datum datum='1624-02-12'>1	Februarij</datum> is de bruijloft gewest van N. Jan Melchiors ende Dortmunds dochter.</l>
+					<l><datum datum='1624-02-12'>12	Febr:</datum> sijn de Lingschen in het Old ampt gevallen ende aldaer grote schade int brannen gedaen.</l>
+					<l><datum datum='1624-08-29'>29	Augusti</datum> hefft men hier getriumpheert over de Baja, den <datum datum='1624-05-09'>9. Maij</datum> van de West Ind. Compe Ingenomen.</l>
+					<l><datum datum='1624-08-31'>31	Dito</datum> is N Jan Luitjens overleden in dit sommer is de brugstrate leeger gemaeckt ende verwijdet ende de luijken sijn afgebroocken.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno  1624</l>
+					<l><datum datum='1624-09-26'>26	Septembr:</datum> is tot Delfsijl uut Guinea angecomen het eerste schip voor de West Ind: Compagnie genaemt Stad ende Lande medebrengende omtrent 400 ponden golt, was uutgevarren uit Tessel den <datum datum='1623-07-16'>16 julij 1623</datum>.</l>
+					<l><datum datum='1624-09-29'>29	Dito</datum> is moeders maecht Gebke in de Peste gestorven, ende suster Wemese cranck geworden.</l>
+					<l><datum datum='1624-10-28'>28	Octobr.</datum> is Joannes Arnold voor clerck angenome in t’ West Ind. Huijs.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1625-xx-xx'>Anno 1625</datum></l>
+					<l><datum datum='1625-03-20'>20	Martij</datum> is borgemr Alting seer subitelick gestorven.</l>
+					<l><datum datum='1625-04-06'>6	April</datum> is Jacobus Coninck van Engelant overleden.</l>
+				</lg>
+			</p>
+			<pb xml:id='0013_1646_Gron_Gijs_013.png' n='13'/>
+			<p>
+				<lg>
+					<l><datum datum='1625-04-13'>13	April</datum> is de prince Maurits overleden.</l>
+					<l><datum datum='1625-05-01'>1	Maij</datum> hebben de Spanschen de Baja weder ingecregen.</l>
+					<l><datum datum='1625-05-13'>13</datum>	is raedtshr Schonenburch tot bewindthebber gecozen in plaetse van Sal. Bormr: Alting.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1625-xx-xx'>Anno 1625</datum></l>
+					<l><datum datum='1625-06-02'>2	Junij</datum> is Breda aan Spinola overgegeven.</l>
+					<l><datum datum='1625-06-08'>8	Junij</datum> bin ick na Amst. gevaren mit swager Jan Willema.</l>
+					<l>	Den Coninck van Bohemen met sijn huijsfrou, ende de Princesse van Orangien, comen tot Amst.</l>
+					<l><datum datum='1625-07-08'>8	Julij </datum>bin ick weder uut Hollant tot Groningen gecomen.</l>
+					<l>..	<datum datum='1625-08-xx'>Augusti</datum> sijn de licenten gesloten waer door bij de bottercopers alhijr groot gelt verloren is.</l>
+					<l></l>
+					<l></l>
+					<l>	1625</l>
+					<l><datum datum='1625-08-29'>29	Augusti</datum> is Juncker Jensema tot bewindthebber gecoren in plaetse van sal. raedtsheer Joost van Cleve, de den <datum datum='1625-05-10'>10 maij laestleden</datum> gestorven was.</l>
+					<l><datum datum='1625-08-29'>29	Augusti</datum> is Grave Enno van Oostfrieslant op de Oort gestorven.</l>
+					<l><datum datum='1625-09-03'>3	Septembris</datum> is neve Peter Willema overleden.</l>
+					<l><datum datum='1625-10-25'>25	Octobris</datum> is Trijne Luijtjens overleden.</l>
+					<l><datum datum='1625-10-25'>-	Dito</datum> is het volck van de West Ind. Comp. voor de Mina geslagen.</l>
+				</lg>
+			</p>
+			<pb xml:id='0014_1646_Gron_Gijs_014.png' n='14'/>
+			<p>
+				<lg>
+					<l></l>
+					<l>	<datum datum='1625-xx-xx'>1625</datum></l>
+					<l><datum datum='1625-11-17'>17	Novemb.</datum> olde stijl is nichte Petertien tot Amsterdam seer haestich gestorven.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1626-xx-xx'>1626</datum></l>
+					<l><datum datum='1626-01-20'>20	Januari</datum> is nichte Trijntje gestorven.</l>
+					<l><datum datum='1626-02-xx'>febr.</datum> is N. Sijabbe Abels overleden.</l>
+					<l><datum datum='1626-05-27'>17/27	Maij</datum> is geboren Willem Prince van Orangien.</l>
+					<l><datum datum='1626-06-12'>12	Junij</datum> hebben oom Gerwer ende ick de boetschap gedaen om Judith Renemand voor mijn swager Jan Willema ende sonder uutstel voort goet antwoort becomen.</l>
+					<l>..	De borgeije tot Lewarden doet de soldaten ontwapenen.</l>
+					<l>..	sijn wij na Tyum, Winsum en Saxumhuijsen gevaren.</l>
+					<l></l>
+					<l></l>
+					<l>	1626</l>
+					<l><datum datum='1626-07-11'>11	Julij</datum> is Hendrick Schaenck als clercq int’ Westind: Huijs gecomen.</l>
+					<l><datum datum='1626-07-21'>21	Dito</datum> is Jochem Blawe hierdoor gereijst na Dansich</l>
+					<l><datum datum='1626-07-24'>24	Dito</datum> was de wincop van swager Jan Will. ende suster Judith.</l>
+					<l><datum datum='1626-08-xx'>..	Augusti</datum> op Roijens bruijlofft gewest</l>
+					<l>-	Den <datum datum='1626-07-31'>21/31 Julij</datum> sijn d’eerst boecken van de West Ind. Comp. NoA gesloten.</l>
+				</lg>
+			</p>
+			<pb xml:id='0015_1646_Gron_Gijs_015.png' n='15'/>
+			<p>
+				<lg>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1626-xx-xx'>1626</datum></l>
+					<l><datum datum='1626-10-01'>1	Octobr.</datum> is de bruiloft gewest van swager Jan Willema ende Judith Renemans.</l>
+					<l>	Swager Jan is geboren <datum datum='1689-09-21'>anno 1689  21 Sept.</datum></l>
+					<l>	Suster Judith geboren <datum datum='1600-10-22'>anno 1600 den 22 Octob.</datum></l>
+					<l><datum datum='1626-10-16'>16 octobr.</datum>  bin ick na Amsterdam gereijst.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1627-xx-xx'>Ano - 1627</datum></l>
+					<l><datum datum='1627-01-11'>11	Januarij</datum> bin ick van Amsterdam weder tot Groningen gecomen.</l>
+					<l>-	In de vasten is vader subitelick cranck geworden.</l>
+					<l><datum datum='1627-05-04'>4	Maij</datum> is nicht Anneke uut Hollant bij ons comen woonen.</l>
+					<l><datum datum='1627-08-09'>9	Augusti</datum> ist Grol ingenomen.</l>
+					<l><datum datum='1627-09-07'>7	September</datum> bin ick na Amsterdam gereijst X</l>
+					<l>X	Over t’ sluiten van de ses jarige rekeningen gesloten op <datum datum='1627-07-01'>1 july anno - 1627</datum> - Boeck B. fol. 284.</l>
+					<l><datum datum='1627-11-08'>8	Novemb.</datum> bin ick weder tot Groningen gecomen.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1627-xx-xx'>Anno 1627</datum></l>
+				</lg>
+			</p>
+			<pb xml:id='0016_1646_Gron_Gijs_016.png' n='16'/>
+			<p>
+				<lg>
+					<l>	<datum datum='1627-12-xx'>Decembris</datum> is des Keijsers volck in Oostfrieslant gecomen.</l>
+					<l>	Is Sant Wolbrichs kercke noch gesloten.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1628-xx-xx'>1628</datum></l>
+					<l><datum datum='1628-03-14'>14	Martij</datum> is ons neeffijen Jaspar Willema geboren.</l>
+					<l><datum datum='1628-04-01'>1	April</datum> is Willem Melchers overleden.</l>
+					<l><datum datum='1628-03-22'>22	Martij</datum> N. Arent Wigbolts overleden.</l>
+					<l><datum datum='1628-05-30'>30	Maij</datum> N. Hindr: Willema huijsfrou gestorven.</l>
+					<l><datum datum='1628-08-04'>4	Augusti</datum> bin ick met mijn huijsfrou, ende suster Wemele ende suster Reijnou na mijn broeder op Bonder Nijlant gereijset ende van daer op Emden.</l>
+					<l><datum datum='1628-08-11'>11	Dito</datum> sijn wij weder tot Groningen gecomen.</l>
+					<l></l>
+					<l></l>
+					<l>	1628</l>
+					<l><datum datum='1628-10-12'>12	Octobr.</datum> op de bruiloft gewest van Hindrick Schaenck.</l>
+					<l><datum datum='1628-11-16'>16	Novembr.</datum> is de bruiloft gewest van nichte Aeltjen ende Houwe.</l>
+					<l><datum datum='1628-12-xx'>..	Decembr</datum>. sijn de raedtsheren Bruis, Johannes Luloffs, ende Jan van Eeck om hoererijen gedeporteert.</l>
+					<l><datum datum='1628-10-02'>2	Octobris</datum> quam de tijdinge van de veroveringe vande 2 Honduras vaerders</l>
+					<l><datum datum='1628-11-08'>8	Novembris</datum> quam de tijdinge van de veroveringe van de Silvervlote door P. Hein, <datum datum='1628-09-08'>den 8. Septembris</datum> geschiedt.</l>
+				</lg>
+			</p>
+			<pb xml:id='0017_1646_Gron_Gijs_017.png' n='17'/>
+			<p>
+				<lg>
+					<l></l>
+					<l>	<datum datum='1629-xx-xx'>1629</datum></l>
+					<l><datum datum='1629-01-21'>21	Januarij</datum> hefft men hijr getriumferet over de Victorie van de Silvervlote.</l>
+					<l><datum datum='1629-02-18'>18	Februarij</datum> is Sal. vader Hindrick Willema in den Heere gerustet.</l>
+					<l><datum datum='1629-06-14'>14	Junij</datum> mit mijn vrouwe, broeders ende susters gereijst na Tyum ende oock voorts na het Nijediep.</l>
+					<l><datum datum='1629-06-22'>22	Junij</datum> sijn hijr nije Bewindthebbers gecozen.</l>
+					<l><datum datum='1629-08-09'>9	Augusti</datum> is Wesol ingenomen.</l>
+					<l><datum datum='1629-09-07'>7	Setembr.</datum> des Hertogenbos.</l>
+					<l><datum datum='1629-11-03'>3	Novemb.</datum> is Gerwer Peters overleden.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1629-06-22'>Anno 1629 den 22 Junij</datum></l>
+					<l>	Gekozen dese nije bewindthebbers</l>
+					<l>	Borgemeester Hugo van Nijveen</l>
+					<l>	Jr. Albert Conders</l>
+					<l>	Raedtshr. Peter Isbrants</l>
+					<l>	Monsr. Siger Sigers</l>
+					<l>	Mons r. Hendrick van Roijen</l>
+				</lg>
+			</p>
+			<pb xml:id='0018_1646_Gron_Gijs_018.png' n='18'/>
+			<p>
+				<lg>
+					<l>	<datum datum='1630-xx-xx'>Anno 1630</datum></l>
+					<l><datum datum='1630-07-05'>5	Julij</datum> bin ick na Amsterdam gereiset.</l>
+					<l><datum datum='1630-07-09'>9	Dito</datum> in Den Hage gecomen.</l>
+					<l><datum datum='1630-07-11'>11	Dito</datum> in Den Briel gecomen.</l>
+					<l><datum datum='1630-07-13'>13</datum>	Tot Rotterdam.</l>
+					<l><datum datum='1630-07-14'>14</datum>	Weder tot Amsterdam gecomen.</l>
+					<l><datum datum='1630-07-24'>24</datum>	Dito weder tot Groningen gecomen.</l>
+					<l> is onse nichtijen Wijtske Willema geboren.</l>
+					<l><datum datum='1630-05-01'>1 Maij</datum> is ons maecht Fockien bij ons comen wonen <datum datum='1631-xx-xx'>anno 1631.</datum></l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1630-xx-xx'>Anno 1630</datum></l>
+					<l><datum datum='1630-09-29'>29	Septemb.</datum> weder van Groningen gereiset.</l>
+					<l><datum datum='1630-10-02'>2	Octob.</datum> tot Amsterdam gecomen.</l>
+					<l><datum datum='1630-11-02'>2	Novembr</datum>: is tot Amsterdam rogge vercocht voor 336 golt gulden t’ last, welckes bij geen 	menschen dencken geschiedt is.</l>
+					<l><datum datum='1630-12-24'>24	Decemb. </datum>weder tot Groningen gecomen met de heer Isbrants ende gesloten de boecken </l>
+					<l>	No C. op <datum datum='1629-12-31'>ulto Decemb. 1629</datum>. </l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1631-xx-xx'>Anno 1631</datum></l>
+				</lg>
+			</p>
+			<pb xml:id='0019_1646_Gron_Gijs_019.png' n='19'/>
+			<p>
+				<lg>
+					<l><datum datum='1631-06-22'>22	Junij</datum> sijn gecoren dese 5 nije Bewindthebbers</l>
+					<l>	Jr. Rempt Jensema 2</l>
+					<l>	Jr. Cristoffer van Sasum 2</l>
+					<l>	Jr. Jan Horenkens</l>
+					<l>	Jr. Berent Conden</l>
+					<l>	Monsr. Folckert Folckerts</l>
+					<l>	Op <datum datum='1631-06-30'>ulto junij</datum> gesloten de boecken van de West Ind. Comp. NoD. fol. 135</l>
+					<l>	<datum datum='1631-xx-xx'>Ano 1631</datum> is Fockien onse maecht met ons comen woonen in plaetse van Mechtelt.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1631-xx-xx'>Anno 1631</datum></l>
+					<l>	<datum datum='1631-03-xx'>Martij</datum> het land in de Rijp van Egbert Datema weder ingelosset.</l>
+					<l><datum datum='1631-08-14'>14	Augusti</datum> bin ick mit mijn huijsfrouw ende neve Wigbolt na mijn broeder op Bonder Nijlant gereijst, oock na Wedde ende Burtange.</l>
+					<l><datum datum='1631-08-18'>18	Dito </datum>weder t’huijs gecomen.</l>
+					<l><datum datum='1631-05-30'>30	Maij</datum> is nicht Aeltjen met haer kindt ende nicht Ideke hijr gecomen.</l>
+					<l>	Gijsbert geboren <datum datum='1631-01-14'>14 jannuarij 1631.</datum></l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1631-xx-xx'>Anno 1631</datum></l>
+					<l><datum datum='1631-08-29'>29	Augusti</datum> is mijn huijsfrouw ende N. Verrucius op eenen dach cranck geworden.</l>
+				</lg>
+			</p>
+			<pb xml:id='0020_1646_Gron_Gijs_020.png' n='20'/>
+			<p>
+				<lg>
+					<l><datum datum='1631-09-11'>11	Septemb.</datum> is neve Gorlaeus Verrucius in den Heere gerustet.</l>
+					<l><datum datum='1631-11-24'>24	Novemb:</datum> bin ick na Amsterdam gereijst. </l>
+					<l>D.fol.135. 	over ’t sluiten van de boecken op <datum datum='1631-06-30'>ulto junij 1631</datum>. </l>
+					<l><datum datum='1631-12-11'>11	Decembr.</datum> is N. Wigbolt gerustet.</l>
+					<l><datum datum='1631-12-12'>12	Dito</datum> oock Isebrandt Hendricks.</l>
+					<l><datum datum='1631-11-06'>6	Novembr.</datum> oock Jacob Cornelijs</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1631-xx-xx'>Anno 1631</datum></l>
+					<l><datum datum='1631-12-17'>17	Decembris</datum> weder van Amsterdam gereiset.</l>
+					<l><datum datum='1631-12-22'>22	Dito</datum> tot Groningen gecomen.</l>
+					<l><datum datum='1631-12-23'>23	Dito</datum> is Willem Wessels begraven.</l>
+					<l>	<datum datum='1631-11-xx'>Novembr.</datum> is nicht Imke tot Amsterdam getrout.</l>
+					<l><datum datum='1631-01-17'>17	Januarij 1631</datum> is neve Gijsbert geboren.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1632-xx-xx'>Anno 1632</datum></l>
+					<l><datum datum='1632-02-17'>17	Februarij</datum> is mijn broeder Arent Gijsbers in den Heeren gerustet</l>
+					<l><datum datum='1632-03-14'>14	Martij </datum>na Amsterdam gereijset.</l>
+					<l><datum datum='1632-04-22'>22	April</datum> mit de Raedtshr Isebrandts weder gecomen.</l>
+				</lg>
+			</p>
+			<pb xml:id='0021_1646_Gron_Gijs_021.png' n='21'/>
+			<p>
+				<lg>
+					<l><datum datum='1632-06-25'>25	Junij</datum> wederom mit de Raedtsheer Isbrants na Amsterdam gereijst over de revenue van de boecken van de West Ind. Comp.</l>
+					<l><datum datum='1632-08-22'>20	Augusti</datum> weder tot Groningen gecomen.</l>
+					<l></l>
+					<l></l>
+					<l>	Dit jaer <datum datum='1632-xx-xx'>1632</datum> hebben wij t’laestemael ossen geweijdet ende tegens jaer <datum datum='1633-xx-xx'>1633</datum> t’ lott en 13 grasen verhuijret.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1633-xx-xx'>Anno 1633</datum></l>
+					<l><datum datum='1633-02-xx'>..	Februarij </datum>hebben d’Heeren Borgemesters mij gestelt tot voocht ende boeckholder van t’ Aduarder Gasthuijs.</l>
+					<l><datum datum='1633-09-24'>24	Septembris</datum> bin ick met mijn huijsfrouw na Amsterdam gereijset.</l>
+					<l><datum datum='1633-11-17'>17 novembre</datum> wederom met mijn huijsfrouw ende Borgemester Julsingh tot Groningen gecomen.</l>
+					<l>-	Dese herfst hebben wij onse mengsluiden offt huijsluiden afgeschaffet.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1633-xx-xx'>Anno 1633</datum></l>
+					<l>	<datum datum='1633-03-27'>Op Paeschen</datum> tot Bonder Nijlandt gewest ende het sterffen van mijn Sal. bruder in richtticheijt mede helpen brengen.</l>
+					<l>	<datum datum='1633-12-xx'>Decemb.</datum> is nicht Aeltjens dochter Maria geboren.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1634-xx-xx'>1634</datum></l>
+				</lg>
+			</p>
+			<pb xml:id='0022_1646_Gron_Gijs_022.png' n='22'/>
+			<p>
+				<lg>
+					<l><datum datum='1634-02-16'>16	Februarij</datum> is onse neeffien Hindrick Willema geboren.</l>
+					<l><datum datum='1634-02-18'>18	Februarij</datum> is nicht Aeltien tot Tonningen in den Heere gerustet.</l>
+					<l><datum datum='1634-03-09'>9	Martij</datum> ist mijn huijsfrouwe d’eerstemael te nachtmael gegaen.</l>
+					<l><datum datum='1634-08-24'>24	Augusti</datum> met mijn hijsfrouwe, swager Gerlof Willema ende sijn huijsfrouwe, na Emden, Binnigum ende Groothuijsen gereijst.</l>
+					<l><datum datum='1633-09-01'>1	Septembris</datum> weder tot Groningen gecomen.</l>
+					<l></l>
+					<l></l>
+					<l><datum datum='1634-09-06'>6	Septembris</datum> hefft het keijersvolck de slag bij Nordlingen tegen de Sweden gewonnen, daer mede de saecken in Duijtslant geheel verandert sijn.</l>
+					<l><datum datum='1634-10-12'>12	Octobr.</datum> sijn hijr in de Stadt in t’diep bij Botteringe poorte 2 levendige cabbeljauwen ofte gulleijens gevangen.</l>
+					<l><datum datum='1634-10-21'>21	Octob.</datum> is het hijr so fraij ende warm weder gewest als midden in de somer.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1634-xx-xx'>1634</datum></l>
+					<l><datum datum='1634-12-06'>16	Decembris</datum> is Hindrick Melchiors gerustet.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1635-xx-xx'>Anno 1635</datum></l>
+					<l><datum datum='1635-01-27'>27	Januarij </datum>is Greetijen bij ons comen woonen.</l>
+					<l><datum datum='1635-02-26'>26	Februarij</datum> is onse neeffijen Hindrick Willema overleden.</l>
+					<l><datum datum='1635-03-08'>8	Marij</datum> is oock onse nichtjen Wijtske Willema overleden.</l>
+				</lg>
+			</p>
+			<pb xml:id='0023_1646_Gron_Gijs_023.png' n='23'/>
+			<p>
+				<lg>
+					<l><datum datum='1635-07-02'>2	Julij</datum> bin ick na Amsterdam gereijst omt’ Guineesche golt over te leveren.</l>
+					<l><datum datum='1635-07-06'>6	Dito</datum> weder tot Groningen gecomen.</l>
+					<l><datum datum='1635-07-18'>18	Julij </datum>is Schencken Schansse uit verrassinge van de Spansche ingenomen.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1635-xx-xx'>1635</datum></l>
+					<l><datum datum='1635-09-27'>27	Septemb.</datum> is de bruiloft gewest van Peter Davids ende Harmentien Willema.</l>
+					<l><datum datum='1635-10-18'>18	Octobris</datum> met mijn huijsfrouwe na Assen gevaren.</l>
+					<l><datum datum='1635-11-10'>10	Novem</datum>. mit borgemeester Julsingen na Amsterdam gereijset op de Generale reeckeninge ende t’ sluiten van de Boecken F.</l>
+					<l><datum datum='1635-12-12'>12	Decemb</datum>. mit de borgemeester weder hier gecomen.</l>
+					<l>	Tot Amsterdam, Leiden ende andere Hollandtsche steden was groote sterfte van de pest.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1636-xx-xx'>1636</datum></l>
+					<l><datum datum='1636-04-20'>20	April</datum> heft Grave Willem Schenken Schans weder ingecregen.</l>
+					<l>5. <datum datum='1636-05-24'>24	Maij</datum> bin ick met mijn huijsfrouwe ende Hindrick Wigbolt na Saxumhuijsen gereijst om de vrijagien van hem ende nicht Ide.</l>
+					<l><datum datum='1636-05-xx'>-	Maij</datum> de stadt Groningen heft van de Grave van Oostfrieslandt lant gecoft. t´landt ende gront daer de lange achter schanse op lecht met de angehorige landen.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1636-xx-xx'>1636</datum></l>
+				</lg>
+			</p>
+			<pb xml:id='0024_1646_Gron_Gijs_024.png' n='24'/>
+			<p>
+				<lg>
+					<l><datum datum='1636-06-13'>13	Junij</datum> bin ick met mijn huijsfrouwe na Enckhuijsen, Hoorn ende Amsterdam gereijst om t´Guineesche gout voor de Compagnie van daer te halen teweten 660 marck.</l>
+					<l><datum datum='1636-06-18'>18	Dito</datum> tot Amsterdam gecomen ende onse herberge bij nicht Imke genomen.</l>
+					<l><datum datum='1636-06-20'>20	Dito</datum> weder tot Groningen gecomen met d’heere Jan de Laet van Londen, heere Jan van der Mart van Middelburg ende Elias de Raet van Amsterdam.</l>
+					<l></l>
+					<l></l>
+					<l><datum datum='1636-07-17'>17	Julij</datum> is Susanneken ter Brake in de pest overleden als sijde bruidt was met Jan ten Broeck van Zutphen.</l>
+					<l><datum datum='1636-08-02'>2	Augusti</datum> ist nicht Janneke van Borchum weder van hijr verreijset was den <datum datum='1636-04-24'>24 april</datum> hijr gecomen.</l>
+					<l><datum datum='1636-09-01'>1	Septembr</datum>. is onse nichtij Wijtzke Willema geboren.</l>
+					<l><datum datum='1636-10-03'>3	Octobr</datum>. is mijn huijsfrouwe cranck geworden</l>
+					<l></l>
+					<l></l>
+					<l><datum datum='1636-12-19'>19	Decemb.</datum> is Jr. Onno Tamminga tot ontfanger general gecoren. hadde gelottet tegen Reyner Eijsinghe.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1637-xx-xx'>1637</datum></l>
+					<l><datum datum='1637-01-21'>21	Januari</datum> is Andries Jacobs overleden.</l>
+					<l><datum datum='1637-04-19'>19	April</datum> is suster Baetjes gerustet.</l>
+					<l><datum datum='1637-05-23'>23	Maij</datum> is Samuel verPlancken overleden.</l>
+					<l><datum datum='1637-05-26'>26	Dito</datum> oock hopman Jan Brugman.</l>
+					<l><datum datum='1637-06-13'>13	Junij</datum> bin ick na Amsterdam, Uutrecht, Dordrecht ende den Hage gereijst.</l>
+				</lg>
+			</p>
+			<pb xml:id='0025_1646_Gron_Gijs_025.png' n='25'/>
+			<p>
+				<lg>
+					<l><datum datum='1637-06-30'>30	Dito</datum> weder tot Groningen gecomen.</l>
+					<l><datum datum='1637-07-11'>11	Julij</datum> is neve Harmus tennijs hier gecomen.</l>
+					<l><datum datum='1637-07-13'>13	Dito</datum> is borgmr. Schaffer overleden ende borgmr. Rengers in sijn plaets gecoren.</l>
+					<l><datum datum='1637-08-14'>14	Augusti</datum> is de Landtgrave van Hessen in Oostfrieslandt gecomen.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1637-xx-xx'>1637</datum></l>
+					<l><datum datum='1637-09-04'>4	Septemb</datum>. is Allert Tamminga overleden.</l>
+					<l><datum datum='1637-09-08'>8	Dito</datum> is neve Berent hijr gecomen.</l>
+					<l><datum datum='1637-09-11'>11	Dito</datum> wederom na Tonningen verreijst.</l>
+					<l><datum datum='1637-09-21'>21	Dito</datum> is nicht Lijsijen op Bonder Nijlandt in de pest gestorven.</l>
+					<l><datum datum='1637-10-26'>26	Octobr.</datum> is nicht Sap in de Rijp gestorven.</l>
+					<l><datum datum='1637-11-04'>4	Novembris</datum> bin ick met raedtsheer Wifrinck na Amsterdam gereijset over Swol ende Harderwijck op het sluijten van de boecken.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1638-xx-xx'>1638</datum></l>
+					<l><datum datum='1638-02-09'>9 Februarij</datum> weder tot Groningen gecomen.</l>
+					<l><datum datum='1638-03-11'>11 Martij</datum> is hopman Jan Eissinghe overleden en Albert Tiassens weder in sijn plaets gecomen.</l>
+					<l><datum datum='1638-04-08'>8 April</datum> heft neve Berent Gijsbers sijn huijsfrou Trijntijen tot Tonningen getrout.</l>
+					<l><datum datum='1638-05-01'>1 Maij</datum> is neve Berent met sijn huijsfrouw hijr gecomen.</l>
+				</lg>
+			</p>
+			<pb xml:id='0026_1646_Gron_Gijs_026.png' n='26'/>
+			<p>
+				<lg>
+					<l></l>
+					<l></l>
+					<l>	- <datum datum='1638-xx-xx'>1638</datum></l>
+					<l><datum datum='1638-05-06'>6 Mai</datum>j met Jr Evert Leeuwen ende Bormr Eisinghe in de Rijp gewest ende kercks reeckeningen ingenomen.</l>
+					<l><datum datum='1638-05-08'>8 Maij</datum> gereist op de na bruiloft van neve Peter Verrutius Cornet.</l>
+					<l><datum datum='1638-05-20'>20 Maij</datum> met mijn huijsfrou ende S. Gerloff ende S. Reijnen ende S. Wemele, neve Berent ende sijn huijsfrou ende neve Jaspar gewest in de Rijp ende aldaer oock gehoort de predicatie van Gerardus Averesse</l>
+					<l><datum datum='1638-05-23'>23 Maij</datum> is neve Berent na Amsterdam gereist.</l>
+					<l><datum datum='1638-12-xx'>Decembris </datum>is neve Houwe overleden.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1638-xx-xx'>1638</datum></l>
+					<l><datum datum='1638-08-12'>12 Augusti</datum> met Holperich gedaen de kerckgang op sijn trouwinge.</l>
+					<l><datum datum='1638-08-14'>14 dito</datum> is Borgemr Schonenborch overleden.</l>
+					<l><datum datum='1638-09-09'>9 Septembris</datum> met mijn huijsfrou van Groninghen na Amsterdam gereijst, voorts na Hoorn, Zeelandt, om t’Guineesche gelt te halen.</l>
+					<l><datum datum='1638-10-27'>27 Octobris</datum> weder tot Groningen gecomen.</l>
+					<l><datum datum='1638-09-xx'>Septemb</datum>. is de jonge Coninck van Vranckrijck geboren.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1639-xx-xx'>1639</datum></l>
+					<l><datum datum='1639-02-17'>17 februarij</datum> gewest op het gastebot van onse hopman ende Bevelhebber van ons vaendel ende haer vereert 6 rijxdalers.</l>
+				</lg>
+			</p>
+			<pb xml:id='0027_1646_Gron_Gijs_027.png' n='27'/>
+			<p>
+				<lg>
+					<l><datum datum='1639-07-25'>25 Julij</datum> na Middelburg gereijst om gout ende suickers van daer te halen.</l>
+					<l><datum datum='1639-08-12'>12 Augusti</datum> weder tot Groningen gecomen.</l>
+					<l><datum datum='1639-09-03'>3 septemb</datum> is onse nichtien Aeltjen Willema geboren</l>
+					<l>Op <datum datum='1639-05-xx'>maij </datum>is fenne mit ons comen woonen.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1639-xx-xx'>1639</datum></l>
+					<l><datum datum='1639-09-29'>29 septemb</datum>, sijn wij met 2 wagens na Tyum gewes, met oock neve Jacob Reijners</l>
+					<l><datum datum='1639-11-10'>10 novembr.</datum> met d’Heeren Ensum ende Ruisselaer na Amsterdam gereijst op de generale reeckeningen en ‘t sluijten van de boecken.</l>
+					<l><datum datum='1639-12-03'>3 decemb</datum>. van Amsterdam weder hier gecomen, also de van Zeelandt noch niet gereet waren.</l>
+					<l></l>
+					<l></l>
+					<l>	- <datum datum='1639-xx-xx'>1639</datum></l>
+					<l><datum datum='1639-11-xx'>Novemb:</datum> is neve Berendt sone Jurijen geboren.</l>
+					<l><datum datum='1639-12-27'>27 decemb</datum> is Hans van Essen boeckholder van de WestIndische Compagnie tot Amsterdam overleden.</l>
+					<l><datum datum='1639-06-13'>13 junij</datum> <datum datum='1639-02-xx'>februarij </datum>hebben wij de 40½ grasen landt to Tyum gecoft.</l>
+					<l></l>
+					<l></l>
+					<l>	<datum datum='1640-xx-xx'>1640</datum></l>
+					<l><datum datum='1640-03-02'>2 martij </datum>bin ick met Jr Horenken ende Hr Royen na Amsterdam gereijst om het sluijten van de boecken.</l>
+				</lg>
+			</p>
+			<pb xml:id='0028_1646_Gron_Gijs_028.png' n='28'/>
+			<p>
+				<lg>
+					<l><datum datum='1640-04-27'>27 april</datum> met Jr Horenken weder tot Groningen gecomen.</l>
+					<l><datum datum='1640-05-29'>29 maij</datum> is neve Berent Gijsbers hier gecomen.</l>
+					<l><datum datum='1640-08-31'>31 augusti</datum> met mijn huisfrouw na Amsterdam gereijst ende gelogeert bij onse nichte Imke.</l>
+					<l><datum datum='1640-09-18'>18 septembr</datum>. weder tot Groningen gecomen, noch  sijnde.</l>
+					<l></l>
+					<l></l>
+					<l>	 <datum datum='1640-xx-xx'>1640</datum></l>
+					<l><datum datum='1640-09-29'>29 Septembr</datum> is de Prinse van Orangien hijr tot Stadthouder gecozen.</l>
+					<l><datum datum='1640-10-19'>19 Octobr</datum> is nicht Wijtjen overleden.</l>
+					<l><datum datum='1640-10-25'>25 Octobr</datum> is sal. Imke Moeije tot Emden in den Heere gerustet.</l>
+					<l><datum datum='1640-11-12'>12 Novembr</datum> is de Prince met de jonge Prince ende een groote Suite hier gecomen ende sijn den.</l>
+					<l><datum datum='1640-11-19'>19 Dito</datum> weder vertrocken na Coevorden nu dat de jonge Prince oock bij Survivance tot Gouverneur was vercoren.</l>
+					<l></l>
+					<l></l>
+					<l><datum datum='1640-12-11'>11 Decembr</datum> is ons Sal. L. moeder Aeltjen Willema in den Heere gerustet.</l>
+					<l></l>
+					<l><datum datum='1641-xx-xx'>	Anno 1641</datum></l>
+					<l><datum datum='1641-05-12'>12 Maij</datum> heft de jonge Prince in Engelant s’Conincks dochter getrout.</l>
+					<l><datum datum='1641-05-30'>30 Maij</datum> sijn wij met onse broeders ende susters na Tyum gewest.</l>
+					<l><datum datum='1641-08-29'>29 Augusti</datum> na de Rensous gewest.</l>
+				</lg>
+			</p>
+			<pb xml:id='0029_1646_Gron_Gijs_029.png' n='29'/>
+			<p>
+				<lg>
+					<l></l>
+					<l></l>
+					<l>	Anno - <datum datum='1641-xx-xx'>1641 </datum>-</l>
+					<l><datum datum='1641-11-09'>9 novemb</datum>. is de Cardinal Infante tot Brugge gestorven.</l>
+					<l><datum datum='1641-12-04'>4 decembr</datum>. met mijn huijsfrouwe na Amsterdam gereijst.</l>
+					<l><datum datum='1641-12-28'>28 decembr</datum> is de jonge grave van Oostfrieslant mit s’Princen dochter in den Hage getrout.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno - <datum datum='1642-xx-xx'>1642</datum></l>
+					<l>31 januarij sijn de here Sighers ende ick tot Amsterdam met onse huijsfrouwen om t’schip Neptunus gevaren was so achoon weder, als in de Meij.</l>
+					<l>19 februarij sijn wij weder tot Groningen gecomen.</l>
+					<l>18 Octobris met de heeren Horenken ende Royen gewest na Oostunhorn, om 3 schepen aldaer t’ expedieren.</l>
+					<l>Novembr. is onse maecht Aeltjen bij ons comen woonen.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno 1642</l>
+					<l><datum datum='1642-11-16'>16 novembr:</datum> is swager Gerloff Willema in de Heere gerustet.</l>
+					<l></l>
+					<l>	Ano - <datum datum='1643-xx-xx'>1643</datum></l>
+					<l><datum datum='1643-02-06'>6 februarij</datum> is Sal. suster Judith Willema in den Heere gerustet.</l>
+				</lg>
+			</p>
+			<pb xml:id='0030_1646_Gron_Gijs_030.png' n='30'/>
+			<p>
+				<lg>
+					<l><datum datum='1643-06-13'>13 juniij</datum> met mijn huijsfrouwe na Amsterdam gereijst,<datum datum='1643-06-22'> 22 dito</datum> weder gecomen.</l>
+					<l><datum datum='1643-08-06'>6 augusti</datum> sijn wij na de Rijp geweest.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno <datum datum='1644-xx-xx'>1644</datum></l>
+					<l><datum datum='1644-04-15'>15 April</datum> met mijn huijsfrouwe ende neve Jaspar Willema na Amsterdam gereijset - <datum datum='1644-06-10'>10 junij</datum> weder gecomen.</l>
+					<l><datum datum='1644-05-20'>20 maij</datum> met Borm: Jalsingen ende Hr. Sighere  ende na Haerlem gewest.</l>
+					<l><datum datum='1644-07-13'>13 julij</datum> is nicht Trijntien hijr gecomen van Tonningen, met neve Gijsbert ende Maria.</l>
+					<l><datum datum='1645-07-30'>1645 - 30 julij</datum> mit suster Reijnouw na Nien Oort gewest.</l>
+					<l></l>
+					<l></l>
+					<l>	Anno - <datum datum='1646-xx-xx'>1646</datum></l>
+					<l><datum datum='1646-08-12'>12 Augusti</datum> is mijn huijsfrouw heel cranck geworden.</l>
+					<l><datum datum='1646-09-02'>2 septembris</datum> sijn neve Harmen Tonnis ende Arent Cornvlijt hijr door gereist.</l>
+					<l><datum datum='1646-06-19'>19 Junij</datum> met neve Gijsbert na Amsterdam en Enckhuijsen geweest, den <datum datum='1646-06-26'>26. Dito</datum> weder tot Groningen gecomen.</l>
+					<l>Anno <datum datum='1647-xx-xx'>1647 </datum>is nicht Duijcks hier gecomen, den <datum datum='1647-08-30'>30. Augusti</datum> en den<datum datum='1647-10-04'> 4. October</datum> weder vereijst.</l>
+					<l></l>
+					<l>6</l>
+				</lg>
+			</p>
+		</body>
+	</text>
+</TEI>
