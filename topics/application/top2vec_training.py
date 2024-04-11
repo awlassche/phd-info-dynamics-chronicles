@@ -40,4 +40,4 @@ model = Top2Vec(corpus, document_ids = document_ids)
 # %%
 
 # save model
-model.save('../models/top2vecmodel_230807')
+model.save('name-model')
