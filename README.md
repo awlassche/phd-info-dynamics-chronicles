@@ -58,7 +58,6 @@ python topics/cossims_primitives_corrected_fast.py
 ```
 
 Further steps:
-- clean signal by removing false dates with `topics/edit_signal.ipynb` and `topics/signal.ipynb`
 - explore `Top2Vec` model with `topics/top2vec_exploring.ipynb`
 - analyse `Top2Vec` model with `topics/top2vec_analysis.ipynb`
 - explore primitives with `topics/primitives_analysis.ipynb`
