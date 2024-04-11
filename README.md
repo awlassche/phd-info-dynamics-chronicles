@@ -17,10 +17,12 @@ The organization of this repository is as follows:
 │   │   ├── parser/             <- xml parsing, document segmentation
 │   │   └── representation/     <- finding prototypes
 │   └── ...
-├── sources/          <- jupyter notebooks with exploratory analyses
+├── sources/               <- code for chapter 2 and 4
 │   └── ...
-├── topics/             <- examples for the paper
-│   └── ...
+├── topics/                <- code for chapter 3 and 5
+│   ├── application
+│   ├── scripts
+│   └── data
 │
 ├── misc/
 │
