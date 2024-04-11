@@ -33,20 +33,14 @@ The organization of this repository is as follows:
 
 ## 3. Topics
 
-## Code pipeline
-
-1. Parsing XML files
-2. Training a `Top2Vec` model
-3. Prepare files for topical fluctuation
-
-### Parsing XML files
+### 3.1 Parsing XML files
 
 ```
 cd topics/application
 bash convert_from_xml.sh
 ```
 
-### Training a `Top2Vec` model
+### 3.2 Training a `Top2Vec` model
 
 ```
 cd topics/application
@@ -55,7 +49,7 @@ python top2vec_training.py
 
 In case of using month dates as well, don't forget to fill in the `xx` in the dates with `topics/clean_corrected_primitives.ipynb`
 
-### Prepare files for topical fluctuation
+### 3.3 Prepare files for topical fluctuation
 
 ```
 python topics/cossims_primitives_corrected_fast.py
@@ -67,7 +61,7 @@ Further steps:
 - analyse `Top2Vec` model with `topics/top2vec_analysis.ipynb`
 - explore primitives with `topics/primitives_analysis.ipynb`
 
-### Calculate topic distributions per chronicle
+### 3.4 Calculate topic distributions per chronicle
 
 - `topics/topic_distribution_chronicles.ipynb`
 
