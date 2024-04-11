@@ -8,10 +8,10 @@ from tqdm import tqdm
 
 # %%
 #load model
-model = Top2Vec.load('../models/top2vecmodel_230807')
+model = Top2Vec.load('name-model')
 
 # load primitives
-with open('../output/primitives_230807/primitives_corrected_monthly_clean.ndjson') as f: # of primitives_annotated
+with open('../data/primitives_corrected_monthly_clean.ndjson') as f: # of primitives_annotated
     data = ndjson.load(f)
 
 # filter events longer than 50 characters, and without date
@@ -40,7 +40,7 @@ for item in tqdm(data_filtered, total=len(data_filtered)):
 dfje = pd.DataFrame(rows)
 #%%
 #save
-with open('../models/230807/primitive_topic_top5.ndjson', 'w') as fout:
+with open('../data/primitive_topic_top5.ndjson', 'w') as fout:
 	ndjson.dump(dfje.to_dict('records'), fout)
 
 #%%
@@ -66,6 +66,6 @@ df = pd.DataFrame(rows)
 split_df = pd.DataFrame(df['cossims'].tolist())
 df2 = pd.concat([df, split_df], axis=1).drop(columns=['cossims'])
 
-with open('../models/230807/cossims_corrected.ndjson', 'w') as fout:
+with open('../data/cossims_corrected.ndjson', 'w') as fout:
 	ndjson.dump(df2.to_dict('records'), fout)
 # %%
