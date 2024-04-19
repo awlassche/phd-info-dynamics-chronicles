@@ -4,29 +4,25 @@
 This repository contains the code used in my PhD dissertation titled _Information Dynamics in Low Countries' Chronicles (1500--1860). A Computational Approach_.
 
 Author: Alie Lassche\
-Version: 8 April 2024
+Version: 19 April 2024
 
 ## Project Organization
 
 The organization of this repository is as follows:
 ```
 ├── corpus/
-│   ├── corpus_230811/                    <- corpus for chapter 3 and 5
-│   │   ├── corpus_230811_annotated/      <- Topic Corpus
-│   │   └── corpus_230811_full/           <- Full Corpus                
-│   └── ...
-│
+│   └── corpus_230811/                    <- corpus for chapter 3 and 5
+│       ├── corpus_230811_annotated/      <- Topic Corpus
+│       └── corpus_230811_full/           <- Full Corpus                
 │
 ├── sources/               <- code for chapter 2 and 4
-│   └── scripts
-│
-│
-├── topics/                <- code for chapter 3 and 5
-│   ├── application
 │   ├── scripts
 │   └── data
 │
-└── ... 
+└── topics/                <- code for chapter 3 and 5
+    ├── application
+    ├── scripts
+    └── data 
 ```
 
 ## 1. Corpus
