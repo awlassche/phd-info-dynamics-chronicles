@@ -18,7 +18,7 @@ The organization of this repository is as follows:
 │
 │
 ├── sources/               <- code for chapter 2 and 4
-│   └── ...
+│   └── scripts
 │
 │
 ├── topics/                <- code for chapter 3 and 5
@@ -32,6 +32,10 @@ The organization of this repository is as follows:
 ## 1. Corpus
 
 ## 2. Sources
+
+- analyse labels source mention with `sources/scripts/source_analysis_statistics.ipynb`
+- analyse source categories with `sources/scripts/sources_categories_statistics.ipynb`
+- count tokens and labels per chronicle with `sources/scripts/count_tokens_tags.ipynb`
 
 ## 3. Topics
 
@@ -49,7 +53,7 @@ cd topics/application
 python top2vec_training.py
 ```
 
-In case of using month dates as well, don't forget to fill in the `xx` in the dates with `topics/clean_corrected_primitives.ipynb`
+In case of using month dates as well, don't forget to fill in the `xx` in the dates with `topics/scripts/clean_corrected_primitives.ipynb`
 
 ### 3.3 Prepare files for topical fluctuation
 
@@ -58,9 +62,9 @@ python topics/cossims_primitives_corrected_fast.py
 ```
 
 Further steps:
-- explore `Top2Vec` model with `topics/top2vec_exploring.ipynb`
-- analyse `Top2Vec` model with `topics/top2vec_analysis.ipynb`
-- explore primitives with `topics/primitives_analysis.ipynb`
+- explore `Top2Vec` model with `topics/scripts/top2vec_exploring.ipynb`
+- analyse `Top2Vec` model with `topics/scripts/top2vec_analysis.ipynb`
+- explore primitives with `topics/scripts/primitives_analysis.ipynb`
 
 ### 3.4 Calculate topic distributions per chronicle
 
